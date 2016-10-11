@@ -26,4 +26,4 @@
         get_data_url(url);
     });
 
-})(jQuery);
+})(window.jQuery);
